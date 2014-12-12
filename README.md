@@ -1,9 +1,4 @@
 Data-Science
 ============
 
-## hi!!
-# nihoa!!
-
-
-
-### OK
+##O,HI!
